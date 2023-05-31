@@ -21,6 +21,9 @@ Firmware: STM32F4 trên KeliC IDE, sử dụng thư viện STD
  ![image](https://github.com/CvNhien/BTL_DLCN/assets/111190445/bbdf2594-c604-4b61-911a-c6ea532f4eda)
 
 •	Nút Start để bắt đầu hiển thị nhiệt độ được đo
+
 •	Nút Stop để dừng hiển thị nhiệt độ
+
 •	Enable Time cho phép nhập thời gian tùy chọn
+
 •	Enable Alarm để bật hiển thị cảnh báo
